@@ -71,6 +71,28 @@ The Phones subcategory contributes the highest sales, indicating a strong demand
 - Focus on promoting phone accessories and bundled phone deals to increase order value.
 - Explore opportunities to expand the product range within the Phones category.
 
+![image](https://github.com/user-attachments/assets/65e7a7e1-e12f-46b8-b612-e5777f304f03)
+
+### Sales Forecast Insights (15 Days Forecast)
+
+The dashboard includes a 15-day sales forecast that predicts future sales volumes based on historical trends. The forecast is displayed through two charts:
+
+1. Sales Forecast 15 Days (Top Chart):
+- This chart shows the actual sales trend from January 2019 to January 2021, with the forecasted values highlighted in green for the next 15 days.
+- The sales trend shows high fluctuations during the period, with significant spikes observed during holiday seasons (Q4).
+
+2. Sales Forecast 15 Days (Bottom Chart):
+- This chart shows the short-term sales forecast for the next 15 days, with predicted sales values ranging from 9.7K to 3.0K by early January 2021.
+- The forecast indicates a slight drop in sales for the upcoming weeks, which could be attributed to the post-holiday season slowdown.
+
+### Key States Driving Sales
+- California remains the top-performing state with the highest sales contribution of 0.34M, followed by New York (0.19M) and Texas (0.12M).
+- Sales are concentrated in a few key states, indicating the potential to expand into other states to diversify sales performance.
+
+### Recommendation:
+- Plan promotional activities in high-performing states (California, New York, Texas) to sustain the sales momentum.
+- Target marketing efforts in underperforming states (like Florida, Michigan, and North Carolina) to increase sales coverage across more regions.
+
 ## Conclusion:
 
 The Online Store Sales Dashboard provides valuable insights into sales performance, customer behavior, and operational efficiency. The analysis highlights key areas of strength and areas for improvement to optimize sales performance and profitability.
