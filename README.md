@@ -73,7 +73,7 @@ The Phones subcategory contributes the highest sales, indicating a strong demand
 
 ![image](https://github.com/user-attachments/assets/65e7a7e1-e12f-46b8-b612-e5777f304f03)
 
-### Sales Forecast Insights (15 Days Forecast)
+### 8. Sales Forecast Insights (15 Days Forecast)
 
 The dashboard includes a 15-day sales forecast that predicts future sales volumes based on historical trends. The forecast is displayed through two charts:
 
@@ -85,7 +85,7 @@ The dashboard includes a 15-day sales forecast that predicts future sales volume
 - This chart shows the short-term sales forecast for the next 15 days, with predicted sales values ranging from 9.7K to 3.0K by early January 2021.
 - The forecast indicates a slight drop in sales for the upcoming weeks, which could be attributed to the post-holiday season slowdown.
 
-### Key States Driving Sales
+### 9. Key States Driving Sales
 - California remains the top-performing state with the highest sales contribution of 0.34M, followed by New York (0.19M) and Texas (0.12M).
 - Sales are concentrated in a few key states, indicating the potential to expand into other states to diversify sales performance.
 
